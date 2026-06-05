@@ -1,0 +1,4 @@
+# Standard library modules (tkinter, json, math, unittest) are included with Python.
+# No external libraries are strictly required to run the application.
+# For testing and development:
+pytest>=7.0.0
